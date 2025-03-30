@@ -1,24 +1,28 @@
 🎵 Google Sheets Clone
+https://datasheetify.netlify.app/
 A modern Google Sheets clone built using HTML, CSS, and JavaScript. This project replicates the essential features of Google Sheets, including text formatting, multiple sheets, and file operations (download/upload).
 
+<br>
 🚀 Features
-✅ Fully functional spreadsheet UI with rows, columns, and cells.
-✅ Text formatting options (Bold, Italic, Underline, Font, Size, Color).
-✅ Alignment options (Left, Center, Right).
-✅ Copy, Cut, Paste functionality with clipboard access.
-✅ Multiple sheets support with tab navigation.
-✅ Save and Load Sheets (JSON file storage).
-✅ Dynamic Formula Bar to edit cell content easily.
-✅ Mobile-friendly and responsive UI.
+✅ Fully functional spreadsheet UI with rows, columns, and cells. <br>
+✅ Text formatting options (Bold, Italic, Underline, Font, Size, Color). <br>
+✅ Alignment options (Left, Center, Right). <br>
+✅ Copy, Cut, Paste functionality with clipboard access. <br>
+✅ Multiple sheets support with tab navigation. <br>
+✅ Save and Load Sheets (JSON file storage). <br>
+✅ Dynamic Formula Bar to edit cell content easily. <br>
+✅ Mobile-friendly and responsive UI. <br>
 
+<br>
 🛠 Tech Stack
-🎨 HTML, CSS – Structure and styling of the UI.
-🎵 JavaScript – Core functionalities for spreadsheet operations.
-⚡ CSS Flexbox & Grid – Layout and responsiveness.
-📌 LocalStorage & File Handling – Saving and opening sheet data.
+🎨 HTML, CSS – Structure and styling of the UI. <br>
+🎵 JavaScript – Core functionalities for spreadsheet operations. <br>
+⚡ CSS Flexbox & Grid – Layout and responsiveness. <br>
+📌 LocalStorage & File Handling – Saving and opening sheet data. <br>
 
+<br>
 📌 Future Enhancements
-🔹 Add support for formulas (SUM, AVG, etc.)
-🔹 Implement real-time collaboration using WebSockets.
-🔹 Enhance animations and smooth UI interactions.
-🔹 Improve file import/export compatibility with CSV & Excel.
+🔹 Add support for formulas (SUM, AVG, etc.). <br>
+🔹 Implement real-time collaboration using WebSockets. <br>
+🔹 Enhance animations and smooth UI interactions. <br>
+🔹 Improve file import/export compatibility with CSV & Excel. <br>
