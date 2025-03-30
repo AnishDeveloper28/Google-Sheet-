@@ -5,7 +5,7 @@
 A modern Google Sheets clone built using HTML, CSS, and JavaScript. This project replicates the essential features of Google Sheets, including text formatting, multiple sheets, and file operations (download/upload).
 
 <br>
-🚀 Features
+🚀 Features <br>
 ✅ Fully functional spreadsheet UI with rows, columns, and cells. <br>
 ✅ Text formatting options (Bold, Italic, Underline, Font, Size, Color). <br>
 ✅ Alignment options (Left, Center, Right). <br>
@@ -16,14 +16,14 @@ A modern Google Sheets clone built using HTML, CSS, and JavaScript. This project
 ✅ Mobile-friendly and responsive UI. <br>
 
 <br>
-🛠 Tech Stack
+🛠 Tech Stack <br>
 🎨 HTML, CSS – Structure and styling of the UI. <br>
 🎵 JavaScript – Core functionalities for spreadsheet operations. <br>
 ⚡ CSS Flexbox & Grid – Layout and responsiveness. <br>
 📌 LocalStorage & File Handling – Saving and opening sheet data. <br>
 
 <br>
-📌 Future Enhancements
+📌 Future Enhancements <br>
 🔹 Add support for formulas (SUM, AVG, etc.). <br>
 🔹 Implement real-time collaboration using WebSockets. <br>
 🔹 Enhance animations and smooth UI interactions. <br>
