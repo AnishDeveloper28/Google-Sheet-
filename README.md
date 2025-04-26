@@ -1,7 +1,7 @@
-🎵 Google Sheets Clone<br>
-<br>
+🎵 Google Sheets Clone<br> 
+
 🚀 Live Demo: https://datasheetify.netlify.app/<br>
-<br>
+
 A modern Google Sheets clone built using HTML, CSS, and JavaScript. This project replicates the essential features of Google Sheets, including text formatting, multiple sheets, and file operations (download/upload).<br>
 
 🚀 Features <br>
@@ -12,13 +12,13 @@ A modern Google Sheets clone built using HTML, CSS, and JavaScript. This project
 ✅ Multiple sheets support with tab navigation. <br>
 ✅ Save and Load Sheets (JSON file storage). <br>
 ✅ Dynamic Formula Bar to edit cell content easily. <br>
-✅ Mobile-friendly and responsive UI. <br><br>
+✅ Mobile-friendly and responsive UI. <br>
 
 🛠 Tech Stack <br>
 🎨 HTML, CSS – Structure and styling of the UI. <br>
 🎵 JavaScript – Core functionalities for spreadsheet operations. <br>
 ⚡ CSS Flexbox & Grid – Layout and responsiveness. <br>
-📌 LocalStorage & File Handling – Saving and opening sheet data. <br><br>
+📌 LocalStorage & File Handling – Saving and opening sheet data. <br>
 
 📌 Future Enhancements <br>
 🔹 Add support for formulas (SUM, AVG, etc.). <br>
